@@ -1,0 +1,9 @@
+2025-02-01 15:17:37,180 - INFO - -----Model Trainig pipeline started-----
+2025-02-01 15:17:42,450 - INFO - Training db created
+2025-02-01 15:17:42,656 - INFO - Historical data preprocessed for LSTM training
+2025-02-01 15:22:30,994 - INFO - LSTM Model - Test Loss: [2.235023021697998, 1.207643985748291]
+2025-02-01 15:22:32,628 - INFO - Made predictions...
+2025-02-01 15:22:34,291 - INFO - Evaluated and stored predictions...
+2025-02-01 15:22:34,292 - INFO - LSTM training completed
+2025-02-01 15:22:34,347 - INFO - Model saved to models/lstm_model.h5
+2025-02-01 15:22:38,998 - INFO - -----Model Trainig pipeline completed-----

@@ -1,0 +1,1089 @@
+2025-02-01 16:28:23,010 - INFO - Buffer length: 1
+2025-02-01 16:28:24,017 - INFO - Buffer length: 2
+2025-02-01 16:28:25,032 - INFO - Buffer length: 3
+2025-02-01 16:28:26,045 - INFO - Buffer length: 4
+2025-02-01 16:28:27,052 - INFO - Buffer length: 5
+2025-02-01 16:28:28,053 - INFO - Buffer length: 6
+2025-02-01 16:28:29,065 - INFO - Buffer length: 7
+2025-02-01 16:28:30,066 - INFO - Buffer length: 8
+2025-02-01 16:28:31,081 - INFO - Buffer length: 9
+2025-02-01 16:28:32,097 - INFO - Buffer length: 10
+2025-02-01 16:28:33,112 - INFO - Buffer length: 11
+2025-02-01 16:28:34,118 - INFO - Buffer length: 12
+2025-02-01 16:28:35,128 - INFO - Buffer length: 13
+2025-02-01 16:28:36,145 - INFO - Buffer length: 14
+2025-02-01 16:28:37,157 - INFO - Buffer length: 15
+2025-02-01 16:28:38,161 - INFO - Buffer length: 16
+2025-02-01 16:28:39,176 - INFO - Buffer length: 17
+2025-02-01 16:28:40,180 - INFO - Buffer length: 18
+2025-02-01 16:28:41,195 - INFO - Buffer length: 19
+2025-02-01 16:28:42,211 - INFO - Buffer length: 20
+2025-02-01 16:28:43,213 - INFO - Buffer length: 21
+2025-02-01 16:28:44,227 - INFO - Buffer length: 22
+2025-02-01 16:28:45,231 - INFO - Buffer length: 23
+2025-02-01 16:28:46,233 - INFO - Buffer length: 24
+2025-02-01 16:28:47,239 - INFO - Buffer length: 25
+2025-02-01 16:28:48,250 - INFO - Buffer length: 26
+2025-02-01 16:28:49,264 - INFO - Buffer length: 27
+2025-02-01 16:28:50,271 - INFO - Buffer length: 28
+2025-02-01 16:28:51,273 - INFO - Buffer length: 29
+2025-02-01 16:28:52,281 - INFO - Buffer length: 30
+2025-02-01 16:28:53,283 - INFO - Buffer length: 31
+2025-02-01 16:28:54,283 - INFO - Buffer length: 32
+2025-02-01 16:28:55,296 - INFO - Buffer length: 33
+2025-02-01 16:28:56,311 - INFO - Buffer length: 34
+2025-02-01 16:28:57,320 - INFO - Buffer length: 35
+2025-02-01 16:28:58,333 - INFO - Buffer length: 36
+2025-02-01 16:28:59,343 - INFO - Buffer length: 37
+2025-02-01 16:29:00,358 - INFO - Buffer length: 38
+2025-02-01 16:29:01,359 - INFO - Buffer length: 39
+2025-02-01 16:29:02,365 - INFO - Buffer length: 40
+2025-02-01 16:29:03,368 - INFO - Buffer length: 41
+2025-02-01 16:29:04,380 - INFO - Buffer length: 42
+2025-02-01 16:29:05,385 - INFO - Buffer length: 43
+2025-02-01 16:29:06,394 - INFO - Buffer length: 44
+2025-02-01 16:29:07,397 - INFO - Buffer length: 45
+2025-02-01 16:29:08,401 - INFO - Buffer length: 46
+2025-02-01 16:29:09,415 - INFO - Buffer length: 47
+2025-02-01 16:29:10,430 - INFO - Buffer length: 48
+2025-02-01 16:29:11,445 - INFO - Buffer length: 49
+2025-02-01 16:29:12,458 - INFO - Buffer length: 50
+2025-02-01 16:29:13,460 - INFO - Buffer length: 51
+2025-02-01 16:29:14,464 - INFO - Buffer length: 52
+2025-02-01 16:29:15,474 - INFO - Buffer length: 53
+2025-02-01 16:29:16,476 - INFO - Buffer length: 54
+2025-02-01 16:29:17,480 - INFO - Buffer length: 55
+2025-02-01 16:29:18,490 - INFO - Buffer length: 56
+2025-02-01 16:29:19,499 - INFO - Buffer length: 57
+2025-02-01 16:29:20,504 - INFO - Buffer length: 58
+2025-02-01 16:29:21,512 - INFO - Buffer length: 59
+2025-02-01 16:29:22,524 - INFO - Buffer length: 60
+2025-02-01 16:29:22,895 - INFO - Realtime accuracy: 0 -- Total predictions: 0 -- Correct predictions: 0
+2025-02-01 16:29:23,528 - INFO - Buffer length: 60
+2025-02-01 16:29:23,620 - INFO - Realtime accuracy: 0 -- Total predictions: 0 -- Correct predictions: 0
+2025-02-01 16:29:24,543 - INFO - Buffer length: 60
+2025-02-01 16:29:24,641 - INFO - Realtime accuracy: 0 -- Total predictions: 0 -- Correct predictions: 0
+2025-02-01 16:29:25,544 - INFO - Buffer length: 60
+2025-02-01 16:29:25,643 - INFO - Realtime accuracy: 0 -- Total predictions: 0 -- Correct predictions: 0
+2025-02-01 16:29:26,550 - INFO - Buffer length: 60
+2025-02-01 16:29:26,712 - INFO - Realtime accuracy: 0 -- Total predictions: 0 -- Correct predictions: 0
+2025-02-01 16:29:27,555 - INFO - Buffer length: 60
+2025-02-01 16:29:27,651 - INFO - Realtime accuracy: 0 -- Total predictions: 0 -- Correct predictions: 0
+2025-02-01 16:29:28,561 - INFO - Buffer length: 60
+2025-02-01 16:29:28,664 - INFO - Realtime accuracy: 0 -- Total predictions: 0 -- Correct predictions: 0
+2025-02-01 16:29:29,568 - INFO - Buffer length: 60
+2025-02-01 16:29:29,668 - INFO - Realtime accuracy: 0 -- Total predictions: 0 -- Correct predictions: 0
+2025-02-01 16:29:30,582 - INFO - Buffer length: 60
+2025-02-01 16:29:30,696 - INFO - Realtime accuracy: 0 -- Total predictions: 0 -- Correct predictions: 0
+2025-02-01 16:29:31,593 - INFO - Buffer length: 60
+2025-02-01 16:29:31,687 - INFO - Realtime accuracy: 0.0 -- Total predictions: 1 -- Correct predictions: 0
+2025-02-01 16:29:32,606 - INFO - Buffer length: 60
+2025-02-01 16:29:32,727 - INFO - Realtime accuracy: 0.0 -- Total predictions: 1 -- Correct predictions: 0
+2025-02-01 16:29:33,610 - INFO - Buffer length: 60
+2025-02-01 16:29:33,703 - INFO - Realtime accuracy: 0.0 -- Total predictions: 1 -- Correct predictions: 0
+2025-02-01 16:29:34,622 - INFO - Buffer length: 60
+2025-02-01 16:29:34,720 - INFO - Realtime accuracy: 0.0 -- Total predictions: 1 -- Correct predictions: 0
+2025-02-01 16:29:35,625 - INFO - Buffer length: 60
+2025-02-01 16:29:35,718 - INFO - Realtime accuracy: 0.0 -- Total predictions: 1 -- Correct predictions: 0
+2025-02-01 16:29:36,638 - INFO - Buffer length: 60
+2025-02-01 16:29:36,744 - INFO - Realtime accuracy: 0.0 -- Total predictions: 2 -- Correct predictions: 0
+2025-02-01 16:29:37,651 - INFO - Buffer length: 60
+2025-02-01 16:29:37,740 - INFO - Realtime accuracy: 0.3333333333333333 -- Total predictions: 3 -- Correct predictions: 1
+2025-02-01 16:29:38,667 - INFO - Buffer length: 60
+2025-02-01 16:29:38,769 - INFO - Realtime accuracy: 0.25 -- Total predictions: 4 -- Correct predictions: 1
+2025-02-01 16:29:39,673 - INFO - Buffer length: 60
+2025-02-01 16:29:39,766 - INFO - Realtime accuracy: 0.25 -- Total predictions: 4 -- Correct predictions: 1
+2025-02-01 16:29:40,677 - INFO - Buffer length: 60
+2025-02-01 16:29:40,796 - INFO - Realtime accuracy: 0.25 -- Total predictions: 4 -- Correct predictions: 1
+2025-02-01 16:29:41,686 - INFO - Buffer length: 60
+2025-02-01 16:29:41,783 - INFO - Realtime accuracy: 0.25 -- Total predictions: 4 -- Correct predictions: 1
+2025-02-01 16:29:42,693 - INFO - Buffer length: 60
+2025-02-01 16:29:42,819 - INFO - Realtime accuracy: 0.2 -- Total predictions: 5 -- Correct predictions: 1
+2025-02-01 16:29:43,706 - INFO - Buffer length: 60
+2025-02-01 16:29:43,868 - INFO - Realtime accuracy: 0.2 -- Total predictions: 5 -- Correct predictions: 1
+2025-02-01 16:29:44,720 - INFO - Buffer length: 60
+2025-02-01 16:29:44,843 - INFO - Realtime accuracy: 0.2 -- Total predictions: 5 -- Correct predictions: 1
+2025-02-01 16:29:45,730 - INFO - Buffer length: 60
+2025-02-01 16:29:45,832 - INFO - Realtime accuracy: 0.2 -- Total predictions: 5 -- Correct predictions: 1
+2025-02-01 16:29:46,758 - INFO - Buffer length: 60
+2025-02-01 16:29:46,955 - INFO - Realtime accuracy: 0.2 -- Total predictions: 5 -- Correct predictions: 1
+2025-02-01 16:29:47,762 - INFO - Buffer length: 60
+2025-02-01 16:29:47,871 - INFO - Realtime accuracy: 0.2 -- Total predictions: 5 -- Correct predictions: 1
+2025-02-01 16:29:48,764 - INFO - Buffer length: 60
+2025-02-01 16:29:48,927 - INFO - Realtime accuracy: 0.2 -- Total predictions: 5 -- Correct predictions: 1
+2025-02-01 16:29:49,769 - INFO - Buffer length: 60
+2025-02-01 16:29:49,932 - INFO - Realtime accuracy: 0.2 -- Total predictions: 5 -- Correct predictions: 1
+2025-02-01 16:29:50,778 - INFO - Buffer length: 60
+2025-02-01 16:29:50,885 - INFO - Realtime accuracy: 0.2 -- Total predictions: 5 -- Correct predictions: 1
+2025-02-01 16:29:51,782 - INFO - Buffer length: 60
+2025-02-01 16:29:51,915 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 6 -- Correct predictions: 1
+2025-02-01 16:29:52,785 - INFO - Buffer length: 60
+2025-02-01 16:29:52,883 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 6 -- Correct predictions: 1
+2025-02-01 16:29:53,792 - INFO - Buffer length: 60
+2025-02-01 16:29:53,954 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 6 -- Correct predictions: 1
+2025-02-01 16:29:54,797 - INFO - Buffer length: 60
+2025-02-01 16:29:54,912 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 6 -- Correct predictions: 1
+2025-02-01 16:29:55,813 - INFO - Buffer length: 60
+2025-02-01 16:29:55,910 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 6 -- Correct predictions: 1
+2025-02-01 16:29:56,827 - INFO - Buffer length: 60
+2025-02-01 16:29:56,916 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 6 -- Correct predictions: 1
+2025-02-01 16:29:57,843 - INFO - Buffer length: 60
+2025-02-01 16:29:57,944 - INFO - Realtime accuracy: 0.2857142857142857 -- Total predictions: 7 -- Correct predictions: 2
+2025-02-01 16:29:58,858 - INFO - Buffer length: 60
+2025-02-01 16:29:58,951 - INFO - Realtime accuracy: 0.2857142857142857 -- Total predictions: 7 -- Correct predictions: 2
+2025-02-01 16:29:59,873 - INFO - Buffer length: 60
+2025-02-01 16:29:59,985 - INFO - Realtime accuracy: 0.25 -- Total predictions: 8 -- Correct predictions: 2
+2025-02-01 16:30:00,881 - INFO - Buffer length: 60
+2025-02-01 16:30:00,980 - INFO - Realtime accuracy: 0.25 -- Total predictions: 8 -- Correct predictions: 2
+2025-02-01 16:30:01,882 - INFO - Buffer length: 60
+2025-02-01 16:30:01,993 - INFO - Realtime accuracy: 0.25 -- Total predictions: 8 -- Correct predictions: 2
+2025-02-01 16:30:02,882 - INFO - Buffer length: 60
+2025-02-01 16:30:02,974 - INFO - Realtime accuracy: 0.25 -- Total predictions: 8 -- Correct predictions: 2
+2025-02-01 16:30:03,898 - INFO - Buffer length: 60
+2025-02-01 16:30:04,018 - INFO - Realtime accuracy: 0.25 -- Total predictions: 8 -- Correct predictions: 2
+2025-02-01 16:30:04,905 - INFO - Buffer length: 60
+2025-02-01 16:30:05,001 - INFO - Realtime accuracy: 0.25 -- Total predictions: 8 -- Correct predictions: 2
+2025-02-01 16:30:05,907 - INFO - Buffer length: 60
+2025-02-01 16:30:06,081 - INFO - Realtime accuracy: 0.25 -- Total predictions: 8 -- Correct predictions: 2
+2025-02-01 16:30:06,921 - INFO - Buffer length: 60
+2025-02-01 16:30:07,050 - INFO - Realtime accuracy: 0.25 -- Total predictions: 8 -- Correct predictions: 2
+2025-02-01 16:30:07,936 - INFO - Buffer length: 60
+2025-02-01 16:30:08,075 - INFO - Realtime accuracy: 0.25 -- Total predictions: 8 -- Correct predictions: 2
+2025-02-01 16:30:08,945 - INFO - Buffer length: 60
+2025-02-01 16:30:09,111 - INFO - Realtime accuracy: 0.2222222222222222 -- Total predictions: 9 -- Correct predictions: 2
+2025-02-01 16:30:09,979 - INFO - Buffer length: 60
+2025-02-01 16:30:10,423 - INFO - Realtime accuracy: 0.2222222222222222 -- Total predictions: 9 -- Correct predictions: 2
+2025-02-01 16:30:10,985 - INFO - Buffer length: 60
+2025-02-01 16:30:11,116 - INFO - Realtime accuracy: 0.2222222222222222 -- Total predictions: 9 -- Correct predictions: 2
+2025-02-01 16:30:11,985 - INFO - Buffer length: 60
+2025-02-01 16:30:12,182 - INFO - Realtime accuracy: 0.2 -- Total predictions: 10 -- Correct predictions: 2
+2025-02-01 16:30:13,014 - INFO - Buffer length: 60
+2025-02-01 16:30:13,336 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 11 -- Correct predictions: 2
+2025-02-01 16:30:14,044 - INFO - Buffer length: 60
+2025-02-01 16:30:14,200 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 12 -- Correct predictions: 2
+2025-02-01 16:30:15,059 - INFO - Buffer length: 60
+2025-02-01 16:30:15,200 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 12 -- Correct predictions: 2
+2025-02-01 16:30:16,061 - INFO - Buffer length: 60
+2025-02-01 16:30:16,161 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 12 -- Correct predictions: 2
+2025-02-01 16:30:17,077 - INFO - Buffer length: 60
+2025-02-01 16:30:17,254 - INFO - Realtime accuracy: 0.15384615384615385 -- Total predictions: 13 -- Correct predictions: 2
+2025-02-01 16:30:18,081 - INFO - Buffer length: 60
+2025-02-01 16:30:18,179 - INFO - Realtime accuracy: 0.15384615384615385 -- Total predictions: 13 -- Correct predictions: 2
+2025-02-01 16:30:19,089 - INFO - Buffer length: 60
+2025-02-01 16:30:19,223 - INFO - Realtime accuracy: 0.15384615384615385 -- Total predictions: 13 -- Correct predictions: 2
+2025-02-01 16:30:20,107 - INFO - Buffer length: 60
+2025-02-01 16:30:20,332 - INFO - Realtime accuracy: 0.15384615384615385 -- Total predictions: 13 -- Correct predictions: 2
+2025-02-01 16:30:21,120 - INFO - Buffer length: 60
+2025-02-01 16:30:21,284 - INFO - Realtime accuracy: 0.15384615384615385 -- Total predictions: 13 -- Correct predictions: 2
+2025-02-01 16:30:22,127 - INFO - Buffer length: 60
+2025-02-01 16:30:22,245 - INFO - Realtime accuracy: 0.15384615384615385 -- Total predictions: 13 -- Correct predictions: 2
+2025-02-01 16:30:23,129 - INFO - Buffer length: 60
+2025-02-01 16:30:23,228 - INFO - Realtime accuracy: 0.14285714285714285 -- Total predictions: 14 -- Correct predictions: 2
+2025-02-01 16:30:24,143 - INFO - Buffer length: 60
+2025-02-01 16:30:24,263 - INFO - Realtime accuracy: 0.13333333333333333 -- Total predictions: 15 -- Correct predictions: 2
+2025-02-01 16:30:25,147 - INFO - Buffer length: 60
+2025-02-01 16:30:25,244 - INFO - Realtime accuracy: 0.13333333333333333 -- Total predictions: 15 -- Correct predictions: 2
+2025-02-01 16:30:26,150 - INFO - Buffer length: 60
+2025-02-01 16:30:26,264 - INFO - Realtime accuracy: 0.13333333333333333 -- Total predictions: 15 -- Correct predictions: 2
+2025-02-01 16:30:27,154 - INFO - Buffer length: 60
+2025-02-01 16:30:27,250 - INFO - Realtime accuracy: 0.13333333333333333 -- Total predictions: 15 -- Correct predictions: 2
+2025-02-01 16:30:28,157 - INFO - Buffer length: 60
+2025-02-01 16:30:28,320 - INFO - Realtime accuracy: 0.17647058823529413 -- Total predictions: 17 -- Correct predictions: 3
+2025-02-01 16:30:29,160 - INFO - Buffer length: 60
+2025-02-01 16:30:29,257 - INFO - Realtime accuracy: 0.17647058823529413 -- Total predictions: 17 -- Correct predictions: 3
+2025-02-01 16:30:30,162 - INFO - Buffer length: 60
+2025-02-01 16:30:30,279 - INFO - Realtime accuracy: 0.17647058823529413 -- Total predictions: 17 -- Correct predictions: 3
+2025-02-01 16:30:31,165 - INFO - Buffer length: 60
+2025-02-01 16:30:31,266 - INFO - Realtime accuracy: 0.17647058823529413 -- Total predictions: 17 -- Correct predictions: 3
+2025-02-01 16:30:32,168 - INFO - Buffer length: 60
+2025-02-01 16:30:32,272 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 18 -- Correct predictions: 3
+2025-02-01 16:30:33,169 - INFO - Buffer length: 60
+2025-02-01 16:30:33,264 - INFO - Realtime accuracy: 0.16666666666666666 -- Total predictions: 18 -- Correct predictions: 3
+2025-02-01 16:30:34,171 - INFO - Buffer length: 60
+2025-02-01 16:30:34,274 - INFO - Realtime accuracy: 0.15789473684210525 -- Total predictions: 19 -- Correct predictions: 3
+2025-02-01 16:30:35,176 - INFO - Buffer length: 60
+2025-02-01 16:30:35,277 - INFO - Realtime accuracy: 0.15789473684210525 -- Total predictions: 19 -- Correct predictions: 3
+2025-02-01 16:30:36,187 - INFO - Buffer length: 60
+2025-02-01 16:30:36,301 - INFO - Realtime accuracy: 0.15789473684210525 -- Total predictions: 19 -- Correct predictions: 3
+2025-02-01 16:30:37,191 - INFO - Buffer length: 60
+2025-02-01 16:30:37,282 - INFO - Realtime accuracy: 0.15789473684210525 -- Total predictions: 19 -- Correct predictions: 3
+2025-02-01 16:30:38,199 - INFO - Buffer length: 60
+2025-02-01 16:30:38,323 - INFO - Realtime accuracy: 0.2 -- Total predictions: 20 -- Correct predictions: 4
+2025-02-01 16:30:39,214 - INFO - Buffer length: 60
+2025-02-01 16:30:39,313 - INFO - Realtime accuracy: 0.2 -- Total predictions: 20 -- Correct predictions: 4
+2025-02-01 16:30:40,217 - INFO - Buffer length: 60
+2025-02-01 16:30:40,320 - INFO - Realtime accuracy: 0.2 -- Total predictions: 20 -- Correct predictions: 4
+2025-02-01 16:30:41,232 - INFO - Buffer length: 60
+2025-02-01 16:30:41,328 - INFO - Realtime accuracy: 0.2 -- Total predictions: 20 -- Correct predictions: 4
+2025-02-01 16:30:42,236 - INFO - Buffer length: 60
+2025-02-01 16:30:42,340 - INFO - Realtime accuracy: 0.19047619047619047 -- Total predictions: 21 -- Correct predictions: 4
+2025-02-01 16:30:43,246 - INFO - Buffer length: 60
+2025-02-01 16:30:43,346 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 22 -- Correct predictions: 4
+2025-02-01 16:30:44,248 - INFO - Buffer length: 60
+2025-02-01 16:30:44,363 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 22 -- Correct predictions: 4
+2025-02-01 16:30:45,252 - INFO - Buffer length: 60
+2025-02-01 16:30:45,349 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 22 -- Correct predictions: 4
+2025-02-01 16:30:46,256 - INFO - Buffer length: 60
+2025-02-01 16:30:46,365 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 22 -- Correct predictions: 4
+2025-02-01 16:30:47,260 - INFO - Buffer length: 60
+2025-02-01 16:30:47,358 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 22 -- Correct predictions: 4
+2025-02-01 16:30:48,270 - INFO - Buffer length: 60
+2025-02-01 16:30:48,432 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 22 -- Correct predictions: 4
+2025-02-01 16:30:49,281 - INFO - Buffer length: 60
+2025-02-01 16:30:49,377 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 22 -- Correct predictions: 4
+2025-02-01 16:30:50,293 - INFO - Buffer length: 60
+2025-02-01 16:30:50,411 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 22 -- Correct predictions: 4
+2025-02-01 16:30:51,294 - INFO - Buffer length: 60
+2025-02-01 16:30:51,393 - INFO - Realtime accuracy: 0.18181818181818182 -- Total predictions: 22 -- Correct predictions: 4
+2025-02-01 16:30:52,299 - INFO - Buffer length: 60
+2025-02-01 16:30:52,398 - INFO - Realtime accuracy: 0.17391304347826086 -- Total predictions: 23 -- Correct predictions: 4
+2025-02-01 16:30:53,310 - INFO - Buffer length: 60
+2025-02-01 16:30:53,402 - INFO - Realtime accuracy: 0.17391304347826086 -- Total predictions: 23 -- Correct predictions: 4
+2025-02-01 16:30:54,323 - INFO - Buffer length: 60
+2025-02-01 16:30:54,437 - INFO - Realtime accuracy: 0.20833333333333334 -- Total predictions: 24 -- Correct predictions: 5
+2025-02-01 16:30:55,337 - INFO - Buffer length: 60
+2025-02-01 16:30:55,428 - INFO - Realtime accuracy: 0.20833333333333334 -- Total predictions: 24 -- Correct predictions: 5
+2025-02-01 16:30:56,351 - INFO - Buffer length: 60
+2025-02-01 16:30:56,454 - INFO - Realtime accuracy: 0.20833333333333334 -- Total predictions: 24 -- Correct predictions: 5
+2025-02-01 16:30:57,359 - INFO - Buffer length: 60
+2025-02-01 16:30:57,458 - INFO - Realtime accuracy: 0.24 -- Total predictions: 25 -- Correct predictions: 6
+2025-02-01 16:30:58,360 - INFO - Buffer length: 60
+2025-02-01 16:30:58,478 - INFO - Realtime accuracy: 0.24 -- Total predictions: 25 -- Correct predictions: 6
+2025-02-01 16:30:59,375 - INFO - Buffer length: 60
+2025-02-01 16:30:59,473 - INFO - Realtime accuracy: 0.2692307692307692 -- Total predictions: 26 -- Correct predictions: 7
+2025-02-01 16:31:00,380 - INFO - Buffer length: 60
+2025-02-01 16:31:00,493 - INFO - Realtime accuracy: 0.2692307692307692 -- Total predictions: 26 -- Correct predictions: 7
+2025-02-01 16:31:01,382 - INFO - Buffer length: 60
+2025-02-01 16:31:01,480 - INFO - Realtime accuracy: 0.2692307692307692 -- Total predictions: 26 -- Correct predictions: 7
+2025-02-01 16:31:02,392 - INFO - Buffer length: 60
+2025-02-01 16:31:02,499 - INFO - Realtime accuracy: 0.2692307692307692 -- Total predictions: 26 -- Correct predictions: 7
+2025-02-01 16:31:03,407 - INFO - Buffer length: 60
+2025-02-01 16:31:03,508 - INFO - Realtime accuracy: 0.2692307692307692 -- Total predictions: 26 -- Correct predictions: 7
+2025-02-01 16:31:04,414 - INFO - Buffer length: 60
+2025-02-01 16:31:04,521 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:05,427 - INFO - Buffer length: 60
+2025-02-01 16:31:05,525 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:06,438 - INFO - Buffer length: 60
+2025-02-01 16:31:06,542 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:07,443 - INFO - Buffer length: 60
+2025-02-01 16:31:07,543 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:08,453 - INFO - Buffer length: 60
+2025-02-01 16:31:08,552 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:09,453 - INFO - Buffer length: 60
+2025-02-01 16:31:09,553 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:10,458 - INFO - Buffer length: 60
+2025-02-01 16:31:10,562 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:11,460 - INFO - Buffer length: 60
+2025-02-01 16:31:11,557 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:12,472 - INFO - Buffer length: 60
+2025-02-01 16:31:12,574 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:13,487 - INFO - Buffer length: 60
+2025-02-01 16:31:13,587 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:14,499 - INFO - Buffer length: 60
+2025-02-01 16:31:14,617 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:15,504 - INFO - Buffer length: 60
+2025-02-01 16:31:15,599 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:16,519 - INFO - Buffer length: 60
+2025-02-01 16:31:16,624 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:17,526 - INFO - Buffer length: 60
+2025-02-01 16:31:17,623 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:18,529 - INFO - Buffer length: 60
+2025-02-01 16:31:18,651 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:19,544 - INFO - Buffer length: 60
+2025-02-01 16:31:19,643 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:20,545 - INFO - Buffer length: 60
+2025-02-01 16:31:20,686 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:21,552 - INFO - Buffer length: 60
+2025-02-01 16:31:21,652 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 27 -- Correct predictions: 7
+2025-02-01 16:31:22,566 - INFO - Buffer length: 60
+2025-02-01 16:31:22,713 - INFO - Realtime accuracy: 0.25 -- Total predictions: 28 -- Correct predictions: 7
+2025-02-01 16:31:23,579 - INFO - Buffer length: 60
+2025-02-01 16:31:23,677 - INFO - Realtime accuracy: 0.25 -- Total predictions: 28 -- Correct predictions: 7
+2025-02-01 16:31:24,594 - INFO - Buffer length: 60
+2025-02-01 16:31:24,695 - INFO - Realtime accuracy: 0.2413793103448276 -- Total predictions: 29 -- Correct predictions: 7
+2025-02-01 16:31:25,598 - INFO - Buffer length: 60
+2025-02-01 16:31:25,695 - INFO - Realtime accuracy: 0.2413793103448276 -- Total predictions: 29 -- Correct predictions: 7
+2025-02-01 16:31:26,611 - INFO - Buffer length: 60
+2025-02-01 16:31:26,715 - INFO - Realtime accuracy: 0.2413793103448276 -- Total predictions: 29 -- Correct predictions: 7
+2025-02-01 16:31:27,622 - INFO - Buffer length: 60
+2025-02-01 16:31:27,718 - INFO - Realtime accuracy: 0.2413793103448276 -- Total predictions: 29 -- Correct predictions: 7
+2025-02-01 16:31:28,625 - INFO - Buffer length: 60
+2025-02-01 16:31:28,736 - INFO - Realtime accuracy: 0.23333333333333334 -- Total predictions: 30 -- Correct predictions: 7
+2025-02-01 16:31:29,628 - INFO - Buffer length: 60
+2025-02-01 16:31:29,725 - INFO - Realtime accuracy: 0.23333333333333334 -- Total predictions: 30 -- Correct predictions: 7
+2025-02-01 16:31:30,631 - INFO - Buffer length: 60
+2025-02-01 16:31:30,736 - INFO - Realtime accuracy: 0.23333333333333334 -- Total predictions: 30 -- Correct predictions: 7
+2025-02-01 16:31:31,638 - INFO - Buffer length: 60
+2025-02-01 16:31:31,738 - INFO - Realtime accuracy: 0.23333333333333334 -- Total predictions: 30 -- Correct predictions: 7
+2025-02-01 16:31:32,652 - INFO - Buffer length: 60
+2025-02-01 16:31:32,755 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 31 -- Correct predictions: 8
+2025-02-01 16:31:33,667 - INFO - Buffer length: 60
+2025-02-01 16:31:33,765 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:34,679 - INFO - Buffer length: 60
+2025-02-01 16:31:34,792 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:35,687 - INFO - Buffer length: 60
+2025-02-01 16:31:35,790 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:36,701 - INFO - Buffer length: 60
+2025-02-01 16:31:36,803 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:37,707 - INFO - Buffer length: 60
+2025-02-01 16:31:37,888 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:38,708 - INFO - Buffer length: 60
+2025-02-01 16:31:38,809 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:39,721 - INFO - Buffer length: 60
+2025-02-01 16:31:39,823 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:40,736 - INFO - Buffer length: 60
+2025-02-01 16:31:40,882 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:41,750 - INFO - Buffer length: 60
+2025-02-01 16:31:41,852 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:42,765 - INFO - Buffer length: 60
+2025-02-01 16:31:42,866 - INFO - Realtime accuracy: 0.28125 -- Total predictions: 32 -- Correct predictions: 9
+2025-02-01 16:31:43,778 - INFO - Buffer length: 60
+2025-02-01 16:31:43,880 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 33 -- Correct predictions: 9
+2025-02-01 16:31:44,781 - INFO - Buffer length: 60
+2025-02-01 16:31:44,887 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 33 -- Correct predictions: 9
+2025-02-01 16:31:45,790 - INFO - Buffer length: 60
+2025-02-01 16:31:45,887 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 33 -- Correct predictions: 9
+2025-02-01 16:31:46,805 - INFO - Buffer length: 60
+2025-02-01 16:31:46,916 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 33 -- Correct predictions: 9
+2025-02-01 16:31:47,808 - INFO - Buffer length: 60
+2025-02-01 16:31:47,901 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 33 -- Correct predictions: 9
+2025-02-01 16:31:48,809 - INFO - Buffer length: 60
+2025-02-01 16:31:48,910 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 33 -- Correct predictions: 9
+2025-02-01 16:31:49,822 - INFO - Buffer length: 60
+2025-02-01 16:31:49,936 - INFO - Realtime accuracy: 0.29411764705882354 -- Total predictions: 34 -- Correct predictions: 10
+2025-02-01 16:31:50,825 - INFO - Buffer length: 60
+2025-02-01 16:31:50,925 - INFO - Realtime accuracy: 0.29411764705882354 -- Total predictions: 34 -- Correct predictions: 10
+2025-02-01 16:31:51,841 - INFO - Buffer length: 60
+2025-02-01 16:31:51,936 - INFO - Realtime accuracy: 0.29411764705882354 -- Total predictions: 34 -- Correct predictions: 10
+2025-02-01 16:31:52,842 - INFO - Buffer length: 60
+2025-02-01 16:31:52,957 - INFO - Realtime accuracy: 0.2857142857142857 -- Total predictions: 35 -- Correct predictions: 10
+2025-02-01 16:31:53,849 - INFO - Buffer length: 60
+2025-02-01 16:31:53,947 - INFO - Realtime accuracy: 0.2857142857142857 -- Total predictions: 35 -- Correct predictions: 10
+2025-02-01 16:31:54,864 - INFO - Buffer length: 60
+2025-02-01 16:31:54,970 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:31:55,875 - INFO - Buffer length: 60
+2025-02-01 16:31:55,973 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:31:56,881 - INFO - Buffer length: 60
+2025-02-01 16:31:56,980 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:31:57,892 - INFO - Buffer length: 60
+2025-02-01 16:31:57,990 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:31:58,893 - INFO - Buffer length: 60
+2025-02-01 16:31:58,994 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:31:59,907 - INFO - Buffer length: 60
+2025-02-01 16:32:00,054 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:00,911 - INFO - Buffer length: 60
+2025-02-01 16:32:01,018 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:01,926 - INFO - Buffer length: 60
+2025-02-01 16:32:02,023 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:02,930 - INFO - Buffer length: 60
+2025-02-01 16:32:03,031 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:03,930 - INFO - Buffer length: 60
+2025-02-01 16:32:04,036 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:04,936 - INFO - Buffer length: 60
+2025-02-01 16:32:05,035 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:05,937 - INFO - Buffer length: 60
+2025-02-01 16:32:06,043 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:06,941 - INFO - Buffer length: 60
+2025-02-01 16:32:07,039 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:07,947 - INFO - Buffer length: 60
+2025-02-01 16:32:08,062 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:08,950 - INFO - Buffer length: 60
+2025-02-01 16:32:09,045 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 36 -- Correct predictions: 10
+2025-02-01 16:32:09,954 - INFO - Buffer length: 60
+2025-02-01 16:32:10,086 - INFO - Realtime accuracy: 0.2894736842105263 -- Total predictions: 38 -- Correct predictions: 11
+2025-02-01 16:32:10,955 - INFO - Buffer length: 60
+2025-02-01 16:32:11,053 - INFO - Realtime accuracy: 0.2894736842105263 -- Total predictions: 38 -- Correct predictions: 11
+2025-02-01 16:32:11,963 - INFO - Buffer length: 60
+2025-02-01 16:32:12,066 - INFO - Realtime accuracy: 0.2894736842105263 -- Total predictions: 38 -- Correct predictions: 11
+2025-02-01 16:32:12,965 - INFO - Buffer length: 60
+2025-02-01 16:32:13,060 - INFO - Realtime accuracy: 0.2894736842105263 -- Total predictions: 38 -- Correct predictions: 11
+2025-02-01 16:32:13,971 - INFO - Buffer length: 60
+2025-02-01 16:32:14,088 - INFO - Realtime accuracy: 0.3 -- Total predictions: 40 -- Correct predictions: 12
+2025-02-01 16:32:14,976 - INFO - Buffer length: 60
+2025-02-01 16:32:15,071 - INFO - Realtime accuracy: 0.3 -- Total predictions: 40 -- Correct predictions: 12
+2025-02-01 16:32:15,987 - INFO - Buffer length: 60
+2025-02-01 16:32:16,105 - INFO - Realtime accuracy: 0.2926829268292683 -- Total predictions: 41 -- Correct predictions: 12
+2025-02-01 16:32:16,993 - INFO - Buffer length: 60
+2025-02-01 16:32:17,138 - INFO - Realtime accuracy: 0.2926829268292683 -- Total predictions: 41 -- Correct predictions: 12
+2025-02-01 16:32:17,994 - INFO - Buffer length: 60
+2025-02-01 16:32:18,103 - INFO - Realtime accuracy: 0.2926829268292683 -- Total predictions: 41 -- Correct predictions: 12
+2025-02-01 16:32:18,999 - INFO - Buffer length: 60
+2025-02-01 16:32:19,097 - INFO - Realtime accuracy: 0.30952380952380953 -- Total predictions: 42 -- Correct predictions: 13
+2025-02-01 16:32:20,008 - INFO - Buffer length: 60
+2025-02-01 16:32:20,120 - INFO - Realtime accuracy: 0.3023255813953488 -- Total predictions: 43 -- Correct predictions: 13
+2025-02-01 16:32:21,024 - INFO - Buffer length: 60
+2025-02-01 16:32:21,116 - INFO - Realtime accuracy: 0.3023255813953488 -- Total predictions: 43 -- Correct predictions: 13
+2025-02-01 16:32:22,039 - INFO - Buffer length: 60
+2025-02-01 16:32:22,153 - INFO - Realtime accuracy: 0.3023255813953488 -- Total predictions: 43 -- Correct predictions: 13
+2025-02-01 16:32:23,043 - INFO - Buffer length: 60
+2025-02-01 16:32:23,137 - INFO - Realtime accuracy: 0.3023255813953488 -- Total predictions: 43 -- Correct predictions: 13
+2025-02-01 16:32:24,053 - INFO - Buffer length: 60
+2025-02-01 16:32:24,181 - INFO - Realtime accuracy: 0.3023255813953488 -- Total predictions: 43 -- Correct predictions: 13
+2025-02-01 16:32:25,054 - INFO - Buffer length: 60
+2025-02-01 16:32:25,144 - INFO - Realtime accuracy: 0.3023255813953488 -- Total predictions: 43 -- Correct predictions: 13
+2025-02-01 16:32:26,069 - INFO - Buffer length: 60
+2025-02-01 16:32:26,170 - INFO - Realtime accuracy: 0.3023255813953488 -- Total predictions: 43 -- Correct predictions: 13
+2025-02-01 16:32:27,071 - INFO - Buffer length: 60
+2025-02-01 16:32:27,167 - INFO - Realtime accuracy: 0.3023255813953488 -- Total predictions: 43 -- Correct predictions: 13
+2025-02-01 16:32:28,073 - INFO - Buffer length: 60
+2025-02-01 16:32:28,192 - INFO - Realtime accuracy: 0.3181818181818182 -- Total predictions: 44 -- Correct predictions: 14
+2025-02-01 16:32:29,075 - INFO - Buffer length: 60
+2025-02-01 16:32:29,229 - INFO - Realtime accuracy: 0.3181818181818182 -- Total predictions: 44 -- Correct predictions: 14
+2025-02-01 16:32:30,086 - INFO - Buffer length: 60
+2025-02-01 16:32:30,203 - INFO - Realtime accuracy: 0.3181818181818182 -- Total predictions: 44 -- Correct predictions: 14
+2025-02-01 16:32:31,089 - INFO - Buffer length: 60
+2025-02-01 16:32:31,185 - INFO - Realtime accuracy: 0.3181818181818182 -- Total predictions: 44 -- Correct predictions: 14
+2025-02-01 16:32:32,095 - INFO - Buffer length: 60
+2025-02-01 16:32:32,208 - INFO - Realtime accuracy: 0.3181818181818182 -- Total predictions: 44 -- Correct predictions: 14
+2025-02-01 16:32:33,100 - INFO - Buffer length: 60
+2025-02-01 16:32:33,197 - INFO - Realtime accuracy: 0.3181818181818182 -- Total predictions: 44 -- Correct predictions: 14
+2025-02-01 16:32:34,115 - INFO - Buffer length: 60
+2025-02-01 16:32:34,217 - INFO - Realtime accuracy: 0.3111111111111111 -- Total predictions: 45 -- Correct predictions: 14
+2025-02-01 16:32:35,118 - INFO - Buffer length: 60
+2025-02-01 16:32:35,265 - INFO - Realtime accuracy: 0.3111111111111111 -- Total predictions: 45 -- Correct predictions: 14
+2025-02-01 16:32:36,135 - INFO - Buffer length: 60
+2025-02-01 16:32:36,249 - INFO - Realtime accuracy: 0.3111111111111111 -- Total predictions: 45 -- Correct predictions: 14
+2025-02-01 16:32:37,138 - INFO - Buffer length: 60
+2025-02-01 16:32:37,235 - INFO - Realtime accuracy: 0.3111111111111111 -- Total predictions: 45 -- Correct predictions: 14
+2025-02-01 16:32:38,144 - INFO - Buffer length: 60
+2025-02-01 16:32:38,242 - INFO - Realtime accuracy: 0.30434782608695654 -- Total predictions: 46 -- Correct predictions: 14
+2025-02-01 16:32:39,149 - INFO - Buffer length: 60
+2025-02-01 16:32:39,250 - INFO - Realtime accuracy: 0.30434782608695654 -- Total predictions: 46 -- Correct predictions: 14
+2025-02-01 16:32:40,150 - INFO - Buffer length: 60
+2025-02-01 16:32:40,276 - INFO - Realtime accuracy: 0.30434782608695654 -- Total predictions: 46 -- Correct predictions: 14
+2025-02-01 16:32:41,152 - INFO - Buffer length: 60
+2025-02-01 16:32:41,249 - INFO - Realtime accuracy: 0.30434782608695654 -- Total predictions: 46 -- Correct predictions: 14
+2025-02-01 16:32:42,167 - INFO - Buffer length: 60
+2025-02-01 16:32:42,272 - INFO - Realtime accuracy: 0.30434782608695654 -- Total predictions: 46 -- Correct predictions: 14
+2025-02-01 16:32:43,169 - INFO - Buffer length: 60
+2025-02-01 16:32:43,264 - INFO - Realtime accuracy: 0.30434782608695654 -- Total predictions: 46 -- Correct predictions: 14
+2025-02-01 16:32:44,173 - INFO - Buffer length: 60
+2025-02-01 16:32:44,334 - INFO - Realtime accuracy: 0.2978723404255319 -- Total predictions: 47 -- Correct predictions: 14
+2025-02-01 16:32:45,174 - INFO - Buffer length: 60
+2025-02-01 16:32:45,393 - INFO - Realtime accuracy: 0.2978723404255319 -- Total predictions: 47 -- Correct predictions: 14
+2025-02-01 16:32:46,183 - INFO - Buffer length: 60
+2025-02-01 16:32:46,344 - INFO - Realtime accuracy: 0.2978723404255319 -- Total predictions: 47 -- Correct predictions: 14
+2025-02-01 16:32:47,198 - INFO - Buffer length: 60
+2025-02-01 16:32:47,293 - INFO - Realtime accuracy: 0.2978723404255319 -- Total predictions: 47 -- Correct predictions: 14
+2025-02-01 16:32:48,212 - INFO - Buffer length: 60
+2025-02-01 16:32:48,315 - INFO - Realtime accuracy: 0.2978723404255319 -- Total predictions: 47 -- Correct predictions: 14
+2025-02-01 16:32:49,213 - INFO - Buffer length: 60
+2025-02-01 16:32:49,312 - INFO - Realtime accuracy: 0.2978723404255319 -- Total predictions: 47 -- Correct predictions: 14
+2025-02-01 16:32:50,220 - INFO - Buffer length: 60
+2025-02-01 16:32:50,350 - INFO - Realtime accuracy: 0.2978723404255319 -- Total predictions: 47 -- Correct predictions: 14
+2025-02-01 16:32:51,223 - INFO - Buffer length: 60
+2025-02-01 16:32:51,323 - INFO - Realtime accuracy: 0.2916666666666667 -- Total predictions: 48 -- Correct predictions: 14
+2025-02-01 16:32:52,239 - INFO - Buffer length: 60
+2025-02-01 16:32:52,367 - INFO - Realtime accuracy: 0.2916666666666667 -- Total predictions: 48 -- Correct predictions: 14
+2025-02-01 16:32:53,243 - INFO - Buffer length: 60
+2025-02-01 16:32:53,343 - INFO - Realtime accuracy: 0.2916666666666667 -- Total predictions: 48 -- Correct predictions: 14
+2025-02-01 16:32:54,256 - INFO - Buffer length: 60
+2025-02-01 16:32:54,368 - INFO - Realtime accuracy: 0.28 -- Total predictions: 50 -- Correct predictions: 14
+2025-02-01 16:32:55,271 - INFO - Buffer length: 60
+2025-02-01 16:32:55,368 - INFO - Realtime accuracy: 0.28 -- Total predictions: 50 -- Correct predictions: 14
+2025-02-01 16:32:56,272 - INFO - Buffer length: 60
+2025-02-01 16:32:56,373 - INFO - Realtime accuracy: 0.28 -- Total predictions: 50 -- Correct predictions: 14
+2025-02-01 16:32:57,288 - INFO - Buffer length: 60
+2025-02-01 16:32:57,385 - INFO - Realtime accuracy: 0.28 -- Total predictions: 50 -- Correct predictions: 14
+2025-02-01 16:32:58,303 - INFO - Buffer length: 60
+2025-02-01 16:32:58,400 - INFO - Realtime accuracy: 0.28 -- Total predictions: 50 -- Correct predictions: 14
+2025-02-01 16:32:59,307 - INFO - Buffer length: 60
+2025-02-01 16:32:59,408 - INFO - Realtime accuracy: 0.27450980392156865 -- Total predictions: 51 -- Correct predictions: 14
+2025-02-01 16:33:00,317 - INFO - Buffer length: 60
+2025-02-01 16:33:00,478 - INFO - Realtime accuracy: 0.27450980392156865 -- Total predictions: 51 -- Correct predictions: 14
+2025-02-01 16:33:01,319 - INFO - Buffer length: 60
+2025-02-01 16:33:01,412 - INFO - Realtime accuracy: 0.27450980392156865 -- Total predictions: 51 -- Correct predictions: 14
+2025-02-01 16:33:02,322 - INFO - Buffer length: 60
+2025-02-01 16:33:02,439 - INFO - Realtime accuracy: 0.27450980392156865 -- Total predictions: 51 -- Correct predictions: 14
+2025-02-01 16:33:03,338 - INFO - Buffer length: 60
+2025-02-01 16:33:03,435 - INFO - Realtime accuracy: 0.27450980392156865 -- Total predictions: 51 -- Correct predictions: 14
+2025-02-01 16:33:04,343 - INFO - Buffer length: 60
+2025-02-01 16:33:04,443 - INFO - Realtime accuracy: 0.27450980392156865 -- Total predictions: 51 -- Correct predictions: 14
+2025-02-01 16:33:05,346 - INFO - Buffer length: 60
+2025-02-01 16:33:05,442 - INFO - Realtime accuracy: 0.27450980392156865 -- Total predictions: 51 -- Correct predictions: 14
+2025-02-01 16:33:06,355 - INFO - Buffer length: 60
+2025-02-01 16:33:06,455 - INFO - Realtime accuracy: 0.27450980392156865 -- Total predictions: 51 -- Correct predictions: 14
+2025-02-01 16:33:07,364 - INFO - Buffer length: 60
+2025-02-01 16:33:07,456 - INFO - Realtime accuracy: 0.27450980392156865 -- Total predictions: 51 -- Correct predictions: 14
+2025-02-01 16:33:08,366 - INFO - Buffer length: 60
+2025-02-01 16:33:08,528 - INFO - Realtime accuracy: 0.2692307692307692 -- Total predictions: 52 -- Correct predictions: 14
+2025-02-01 16:33:09,381 - INFO - Buffer length: 60
+2025-02-01 16:33:09,478 - INFO - Realtime accuracy: 0.2692307692307692 -- Total predictions: 52 -- Correct predictions: 14
+2025-02-01 16:33:10,387 - INFO - Buffer length: 60
+2025-02-01 16:33:10,519 - INFO - Realtime accuracy: 0.2641509433962264 -- Total predictions: 53 -- Correct predictions: 14
+2025-02-01 16:33:11,392 - INFO - Buffer length: 60
+2025-02-01 16:33:11,490 - INFO - Realtime accuracy: 0.2641509433962264 -- Total predictions: 53 -- Correct predictions: 14
+2025-02-01 16:33:12,400 - INFO - Buffer length: 60
+2025-02-01 16:33:12,507 - INFO - Realtime accuracy: 0.2641509433962264 -- Total predictions: 53 -- Correct predictions: 14
+2025-02-01 16:33:13,404 - INFO - Buffer length: 60
+2025-02-01 16:33:13,500 - INFO - Realtime accuracy: 0.2641509433962264 -- Total predictions: 53 -- Correct predictions: 14
+2025-02-01 16:33:14,411 - INFO - Buffer length: 60
+2025-02-01 16:33:14,515 - INFO - Realtime accuracy: 0.2641509433962264 -- Total predictions: 53 -- Correct predictions: 14
+2025-02-01 16:33:15,413 - INFO - Buffer length: 60
+2025-02-01 16:33:15,513 - INFO - Realtime accuracy: 0.2641509433962264 -- Total predictions: 53 -- Correct predictions: 14
+2025-02-01 16:33:16,429 - INFO - Buffer length: 60
+2025-02-01 16:33:16,539 - INFO - Realtime accuracy: 0.2641509433962264 -- Total predictions: 53 -- Correct predictions: 14
+2025-02-01 16:33:17,445 - INFO - Buffer length: 60
+2025-02-01 16:33:17,542 - INFO - Realtime accuracy: 0.2641509433962264 -- Total predictions: 53 -- Correct predictions: 14
+2025-02-01 16:33:18,446 - INFO - Buffer length: 60
+2025-02-01 16:33:18,606 - INFO - Realtime accuracy: 0.2777777777777778 -- Total predictions: 54 -- Correct predictions: 15
+2025-02-01 16:33:19,460 - INFO - Buffer length: 60
+2025-02-01 16:33:19,560 - INFO - Realtime accuracy: 0.2909090909090909 -- Total predictions: 55 -- Correct predictions: 16
+2025-02-01 16:33:20,462 - INFO - Buffer length: 60
+2025-02-01 16:33:20,567 - INFO - Realtime accuracy: 0.2857142857142857 -- Total predictions: 56 -- Correct predictions: 16
+2025-02-01 16:33:21,473 - INFO - Buffer length: 60
+2025-02-01 16:33:21,576 - INFO - Realtime accuracy: 0.2857142857142857 -- Total predictions: 56 -- Correct predictions: 16
+2025-02-01 16:33:22,488 - INFO - Buffer length: 60
+2025-02-01 16:33:22,604 - INFO - Realtime accuracy: 0.2857142857142857 -- Total predictions: 56 -- Correct predictions: 16
+2025-02-01 16:33:23,490 - INFO - Buffer length: 60
+2025-02-01 16:33:23,590 - INFO - Realtime accuracy: 0.2857142857142857 -- Total predictions: 56 -- Correct predictions: 16
+2025-02-01 16:33:24,497 - INFO - Buffer length: 60
+2025-02-01 16:33:24,605 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:25,503 - INFO - Buffer length: 60
+2025-02-01 16:33:25,606 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:26,504 - INFO - Buffer length: 60
+2025-02-01 16:33:26,616 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:27,506 - INFO - Buffer length: 60
+2025-02-01 16:33:27,601 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:28,520 - INFO - Buffer length: 60
+2025-02-01 16:33:28,636 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:29,536 - INFO - Buffer length: 60
+2025-02-01 16:33:29,632 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:30,545 - INFO - Buffer length: 60
+2025-02-01 16:33:30,707 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:31,546 - INFO - Buffer length: 60
+2025-02-01 16:33:31,650 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:32,556 - INFO - Buffer length: 60
+2025-02-01 16:33:32,663 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:33,569 - INFO - Buffer length: 60
+2025-02-01 16:33:33,668 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:34,570 - INFO - Buffer length: 60
+2025-02-01 16:33:34,686 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:35,584 - INFO - Buffer length: 60
+2025-02-01 16:33:35,679 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:36,585 - INFO - Buffer length: 60
+2025-02-01 16:33:36,694 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:37,594 - INFO - Buffer length: 60
+2025-02-01 16:33:37,690 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:38,599 - INFO - Buffer length: 60
+2025-02-01 16:33:38,713 - INFO - Realtime accuracy: 0.27586206896551724 -- Total predictions: 58 -- Correct predictions: 16
+2025-02-01 16:33:39,603 - INFO - Buffer length: 60
+2025-02-01 16:33:39,711 - INFO - Realtime accuracy: 0.2711864406779661 -- Total predictions: 59 -- Correct predictions: 16
+2025-02-01 16:33:40,614 - INFO - Buffer length: 60
+2025-02-01 16:33:40,743 - INFO - Realtime accuracy: 0.2711864406779661 -- Total predictions: 59 -- Correct predictions: 16
+2025-02-01 16:33:41,617 - INFO - Buffer length: 60
+2025-02-01 16:33:41,713 - INFO - Realtime accuracy: 0.2711864406779661 -- Total predictions: 59 -- Correct predictions: 16
+2025-02-01 16:33:42,620 - INFO - Buffer length: 60
+2025-02-01 16:33:42,725 - INFO - Realtime accuracy: 0.2711864406779661 -- Total predictions: 59 -- Correct predictions: 16
+2025-02-01 16:33:43,631 - INFO - Buffer length: 60
+2025-02-01 16:33:43,726 - INFO - Realtime accuracy: 0.2711864406779661 -- Total predictions: 59 -- Correct predictions: 16
+2025-02-01 16:33:44,646 - INFO - Buffer length: 60
+2025-02-01 16:33:44,746 - INFO - Realtime accuracy: 0.2786885245901639 -- Total predictions: 61 -- Correct predictions: 17
+2025-02-01 16:33:45,662 - INFO - Buffer length: 60
+2025-02-01 16:33:45,758 - INFO - Realtime accuracy: 0.2786885245901639 -- Total predictions: 61 -- Correct predictions: 17
+2025-02-01 16:33:46,667 - INFO - Buffer length: 60
+2025-02-01 16:33:46,791 - INFO - Realtime accuracy: 0.2786885245901639 -- Total predictions: 61 -- Correct predictions: 17
+2025-02-01 16:33:47,680 - INFO - Buffer length: 60
+2025-02-01 16:33:47,774 - INFO - Realtime accuracy: 0.2786885245901639 -- Total predictions: 61 -- Correct predictions: 17
+2025-02-01 16:33:48,682 - INFO - Buffer length: 60
+2025-02-01 16:33:48,781 - INFO - Realtime accuracy: 0.27419354838709675 -- Total predictions: 62 -- Correct predictions: 17
+2025-02-01 16:33:49,697 - INFO - Buffer length: 60
+2025-02-01 16:33:49,845 - INFO - Realtime accuracy: 0.27419354838709675 -- Total predictions: 62 -- Correct predictions: 17
+2025-02-01 16:33:50,704 - INFO - Buffer length: 60
+2025-02-01 16:33:50,808 - INFO - Realtime accuracy: 0.27419354838709675 -- Total predictions: 62 -- Correct predictions: 17
+2025-02-01 16:33:51,715 - INFO - Buffer length: 60
+2025-02-01 16:33:51,814 - INFO - Realtime accuracy: 0.27419354838709675 -- Total predictions: 62 -- Correct predictions: 17
+2025-02-01 16:33:52,720 - INFO - Buffer length: 60
+2025-02-01 16:33:52,822 - INFO - Realtime accuracy: 0.27419354838709675 -- Total predictions: 62 -- Correct predictions: 17
+2025-02-01 16:33:53,732 - INFO - Buffer length: 60
+2025-02-01 16:33:53,830 - INFO - Realtime accuracy: 0.27419354838709675 -- Total predictions: 62 -- Correct predictions: 17
+2025-02-01 16:33:54,737 - INFO - Buffer length: 60
+2025-02-01 16:33:54,838 - INFO - Realtime accuracy: 0.27419354838709675 -- Total predictions: 62 -- Correct predictions: 17
+2025-02-01 16:33:55,749 - INFO - Buffer length: 60
+2025-02-01 16:33:55,843 - INFO - Realtime accuracy: 0.2698412698412698 -- Total predictions: 63 -- Correct predictions: 17
+2025-02-01 16:33:56,762 - INFO - Buffer length: 60
+2025-02-01 16:33:56,861 - INFO - Realtime accuracy: 0.2698412698412698 -- Total predictions: 63 -- Correct predictions: 17
+2025-02-01 16:33:57,772 - INFO - Buffer length: 60
+2025-02-01 16:33:57,871 - INFO - Realtime accuracy: 0.2698412698412698 -- Total predictions: 63 -- Correct predictions: 17
+2025-02-01 16:33:58,783 - INFO - Buffer length: 60
+2025-02-01 16:33:58,892 - INFO - Realtime accuracy: 0.2698412698412698 -- Total predictions: 63 -- Correct predictions: 17
+2025-02-01 16:33:59,783 - INFO - Buffer length: 60
+2025-02-01 16:33:59,910 - INFO - Realtime accuracy: 0.2698412698412698 -- Total predictions: 63 -- Correct predictions: 17
+2025-02-01 16:34:00,798 - INFO - Buffer length: 60
+2025-02-01 16:34:00,976 - INFO - Realtime accuracy: 0.2698412698412698 -- Total predictions: 63 -- Correct predictions: 17
+2025-02-01 16:34:01,798 - INFO - Buffer length: 60
+2025-02-01 16:34:01,894 - INFO - Realtime accuracy: 0.2698412698412698 -- Total predictions: 63 -- Correct predictions: 17
+2025-02-01 16:34:02,807 - INFO - Buffer length: 60
+2025-02-01 16:34:02,908 - INFO - Realtime accuracy: 0.2698412698412698 -- Total predictions: 63 -- Correct predictions: 17
+2025-02-01 16:34:03,818 - INFO - Buffer length: 60
+2025-02-01 16:34:03,917 - INFO - Realtime accuracy: 0.265625 -- Total predictions: 64 -- Correct predictions: 17
+2025-02-01 16:34:04,819 - INFO - Buffer length: 60
+2025-02-01 16:34:04,924 - INFO - Realtime accuracy: 0.265625 -- Total predictions: 64 -- Correct predictions: 17
+2025-02-01 16:34:05,822 - INFO - Buffer length: 60
+2025-02-01 16:34:05,919 - INFO - Realtime accuracy: 0.265625 -- Total predictions: 64 -- Correct predictions: 17
+2025-02-01 16:34:06,835 - INFO - Buffer length: 60
+2025-02-01 16:34:06,949 - INFO - Realtime accuracy: 0.265625 -- Total predictions: 64 -- Correct predictions: 17
+2025-02-01 16:34:07,849 - INFO - Buffer length: 60
+2025-02-01 16:34:07,952 - INFO - Realtime accuracy: 0.265625 -- Total predictions: 64 -- Correct predictions: 17
+2025-02-01 16:34:08,861 - INFO - Buffer length: 60
+2025-02-01 16:34:09,021 - INFO - Realtime accuracy: 0.265625 -- Total predictions: 64 -- Correct predictions: 17
+2025-02-01 16:34:09,875 - INFO - Buffer length: 60
+2025-02-01 16:34:09,970 - INFO - Realtime accuracy: 0.27692307692307694 -- Total predictions: 65 -- Correct predictions: 18
+2025-02-01 16:34:10,880 - INFO - Buffer length: 60
+2025-02-01 16:34:11,059 - INFO - Realtime accuracy: 0.27692307692307694 -- Total predictions: 65 -- Correct predictions: 18
+2025-02-01 16:34:11,896 - INFO - Buffer length: 60
+2025-02-01 16:34:11,994 - INFO - Realtime accuracy: 0.27692307692307694 -- Total predictions: 65 -- Correct predictions: 18
+2025-02-01 16:34:12,899 - INFO - Buffer length: 60
+2025-02-01 16:34:13,019 - INFO - Realtime accuracy: 0.27692307692307694 -- Total predictions: 65 -- Correct predictions: 18
+2025-02-01 16:34:13,916 - INFO - Buffer length: 60
+2025-02-01 16:34:14,012 - INFO - Realtime accuracy: 0.27692307692307694 -- Total predictions: 65 -- Correct predictions: 18
+2025-02-01 16:34:14,931 - INFO - Buffer length: 60
+2025-02-01 16:34:15,035 - INFO - Realtime accuracy: 0.27692307692307694 -- Total predictions: 65 -- Correct predictions: 18
+2025-02-01 16:34:15,946 - INFO - Buffer length: 60
+2025-02-01 16:34:16,050 - INFO - Realtime accuracy: 0.27692307692307694 -- Total predictions: 65 -- Correct predictions: 18
+2025-02-01 16:34:16,954 - INFO - Buffer length: 60
+2025-02-01 16:34:17,069 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:17,965 - INFO - Buffer length: 60
+2025-02-01 16:34:18,066 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:18,974 - INFO - Buffer length: 60
+2025-02-01 16:34:19,108 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:19,985 - INFO - Buffer length: 60
+2025-02-01 16:34:20,082 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:20,993 - INFO - Buffer length: 60
+2025-02-01 16:34:21,106 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:22,008 - INFO - Buffer length: 60
+2025-02-01 16:34:22,103 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:23,012 - INFO - Buffer length: 60
+2025-02-01 16:34:23,138 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:24,016 - INFO - Buffer length: 60
+2025-02-01 16:34:24,119 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:25,028 - INFO - Buffer length: 60
+2025-02-01 16:34:25,135 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:26,032 - INFO - Buffer length: 60
+2025-02-01 16:34:26,130 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:27,047 - INFO - Buffer length: 60
+2025-02-01 16:34:27,149 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:28,049 - INFO - Buffer length: 60
+2025-02-01 16:34:28,149 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:29,059 - INFO - Buffer length: 60
+2025-02-01 16:34:29,161 - INFO - Realtime accuracy: 0.2727272727272727 -- Total predictions: 66 -- Correct predictions: 18
+2025-02-01 16:34:30,074 - INFO - Buffer length: 60
+2025-02-01 16:34:30,172 - INFO - Realtime accuracy: 0.2835820895522388 -- Total predictions: 67 -- Correct predictions: 19
+2025-02-01 16:34:31,084 - INFO - Buffer length: 60
+2025-02-01 16:34:31,202 - INFO - Realtime accuracy: 0.2835820895522388 -- Total predictions: 67 -- Correct predictions: 19
+2025-02-01 16:34:32,097 - INFO - Buffer length: 60
+2025-02-01 16:34:32,189 - INFO - Realtime accuracy: 0.2835820895522388 -- Total predictions: 67 -- Correct predictions: 19
+2025-02-01 16:34:33,109 - INFO - Buffer length: 60
+2025-02-01 16:34:33,213 - INFO - Realtime accuracy: 0.2835820895522388 -- Total predictions: 67 -- Correct predictions: 19
+2025-02-01 16:34:34,111 - INFO - Buffer length: 60
+2025-02-01 16:34:34,210 - INFO - Realtime accuracy: 0.2835820895522388 -- Total predictions: 67 -- Correct predictions: 19
+2025-02-01 16:34:35,121 - INFO - Buffer length: 60
+2025-02-01 16:34:35,220 - INFO - Realtime accuracy: 0.2835820895522388 -- Total predictions: 67 -- Correct predictions: 19
+2025-02-01 16:34:36,133 - INFO - Buffer length: 60
+2025-02-01 16:34:36,229 - INFO - Realtime accuracy: 0.2835820895522388 -- Total predictions: 67 -- Correct predictions: 19
+2025-02-01 16:34:37,135 - INFO - Buffer length: 60
+2025-02-01 16:34:37,235 - INFO - Realtime accuracy: 0.2835820895522388 -- Total predictions: 67 -- Correct predictions: 19
+2025-02-01 16:34:38,141 - INFO - Buffer length: 60
+2025-02-01 16:34:38,239 - INFO - Realtime accuracy: 0.2835820895522388 -- Total predictions: 67 -- Correct predictions: 19
+2025-02-01 16:34:39,155 - INFO - Buffer length: 60
+2025-02-01 16:34:39,284 - INFO - Realtime accuracy: 0.27941176470588236 -- Total predictions: 68 -- Correct predictions: 19
+2025-02-01 16:34:40,172 - INFO - Buffer length: 60
+2025-02-01 16:34:40,268 - INFO - Realtime accuracy: 0.27941176470588236 -- Total predictions: 68 -- Correct predictions: 19
+2025-02-01 16:34:41,174 - INFO - Buffer length: 60
+2025-02-01 16:34:41,294 - INFO - Realtime accuracy: 0.2753623188405797 -- Total predictions: 69 -- Correct predictions: 19
+2025-02-01 16:34:42,182 - INFO - Buffer length: 60
+2025-02-01 16:34:42,271 - INFO - Realtime accuracy: 0.2753623188405797 -- Total predictions: 69 -- Correct predictions: 19
+2025-02-01 16:34:43,187 - INFO - Buffer length: 60
+2025-02-01 16:34:43,285 - INFO - Realtime accuracy: 0.2753623188405797 -- Total predictions: 69 -- Correct predictions: 19
+2025-02-01 16:34:44,191 - INFO - Buffer length: 60
+2025-02-01 16:34:44,290 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:45,195 - INFO - Buffer length: 60
+2025-02-01 16:34:45,311 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:46,209 - INFO - Buffer length: 60
+2025-02-01 16:34:46,350 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:47,221 - INFO - Buffer length: 60
+2025-02-01 16:34:47,335 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:48,236 - INFO - Buffer length: 60
+2025-02-01 16:34:48,329 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:49,240 - INFO - Buffer length: 60
+2025-02-01 16:34:49,350 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:50,242 - INFO - Buffer length: 60
+2025-02-01 16:34:50,336 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:51,258 - INFO - Buffer length: 60
+2025-02-01 16:34:51,399 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:52,269 - INFO - Buffer length: 60
+2025-02-01 16:34:52,367 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:53,276 - INFO - Buffer length: 60
+2025-02-01 16:34:53,381 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:54,278 - INFO - Buffer length: 60
+2025-02-01 16:34:54,373 - INFO - Realtime accuracy: 0.2714285714285714 -- Total predictions: 70 -- Correct predictions: 19
+2025-02-01 16:34:55,291 - INFO - Buffer length: 60
+2025-02-01 16:34:55,400 - INFO - Realtime accuracy: 0.2676056338028169 -- Total predictions: 71 -- Correct predictions: 19
+2025-02-01 16:34:56,298 - INFO - Buffer length: 60
+2025-02-01 16:34:56,396 - INFO - Realtime accuracy: 0.2676056338028169 -- Total predictions: 71 -- Correct predictions: 19
+2025-02-01 16:34:57,308 - INFO - Buffer length: 60
+2025-02-01 16:34:57,409 - INFO - Realtime accuracy: 0.2676056338028169 -- Total predictions: 71 -- Correct predictions: 19
+2025-02-01 16:34:58,312 - INFO - Buffer length: 60
+2025-02-01 16:34:58,412 - INFO - Realtime accuracy: 0.2676056338028169 -- Total predictions: 71 -- Correct predictions: 19
+2025-02-01 16:34:59,316 - INFO - Buffer length: 60
+2025-02-01 16:34:59,422 - INFO - Realtime accuracy: 0.2676056338028169 -- Total predictions: 71 -- Correct predictions: 19
+2025-02-01 16:35:00,327 - INFO - Buffer length: 60
+2025-02-01 16:35:00,421 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:01,330 - INFO - Buffer length: 60
+2025-02-01 16:35:01,482 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:02,336 - INFO - Buffer length: 60
+2025-02-01 16:35:02,430 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:03,337 - INFO - Buffer length: 60
+2025-02-01 16:35:03,451 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:04,342 - INFO - Buffer length: 60
+2025-02-01 16:35:04,437 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:05,349 - INFO - Buffer length: 60
+2025-02-01 16:35:05,462 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:06,365 - INFO - Buffer length: 60
+2025-02-01 16:35:06,466 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:07,368 - INFO - Buffer length: 60
+2025-02-01 16:35:07,469 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:08,373 - INFO - Buffer length: 60
+2025-02-01 16:35:08,468 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:09,376 - INFO - Buffer length: 60
+2025-02-01 16:35:09,486 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:10,380 - INFO - Buffer length: 60
+2025-02-01 16:35:10,481 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:11,390 - INFO - Buffer length: 60
+2025-02-01 16:35:11,500 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:12,396 - INFO - Buffer length: 60
+2025-02-01 16:35:12,496 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:13,410 - INFO - Buffer length: 60
+2025-02-01 16:35:13,512 - INFO - Realtime accuracy: 0.2638888888888889 -- Total predictions: 72 -- Correct predictions: 19
+2025-02-01 16:35:14,413 - INFO - Buffer length: 60
+2025-02-01 16:35:14,560 - INFO - Realtime accuracy: 0.2602739726027397 -- Total predictions: 73 -- Correct predictions: 19
+2025-02-01 16:35:15,417 - INFO - Buffer length: 60
+2025-02-01 16:35:15,527 - INFO - Realtime accuracy: 0.2602739726027397 -- Total predictions: 73 -- Correct predictions: 19
+2025-02-01 16:35:16,426 - INFO - Buffer length: 60
+2025-02-01 16:35:16,524 - INFO - Realtime accuracy: 0.25675675675675674 -- Total predictions: 74 -- Correct predictions: 19
+2025-02-01 16:35:17,441 - INFO - Buffer length: 60
+2025-02-01 16:35:17,615 - INFO - Realtime accuracy: 0.25675675675675674 -- Total predictions: 74 -- Correct predictions: 19
+2025-02-01 16:35:18,455 - INFO - Buffer length: 60
+2025-02-01 16:35:18,548 - INFO - Realtime accuracy: 0.25675675675675674 -- Total predictions: 74 -- Correct predictions: 19
+2025-02-01 16:35:19,469 - INFO - Buffer length: 60
+2025-02-01 16:35:19,587 - INFO - Realtime accuracy: 0.25675675675675674 -- Total predictions: 74 -- Correct predictions: 19
+2025-02-01 16:35:20,482 - INFO - Buffer length: 60
+2025-02-01 16:35:20,581 - INFO - Realtime accuracy: 0.25675675675675674 -- Total predictions: 74 -- Correct predictions: 19
+2025-02-01 16:35:21,487 - INFO - Buffer length: 60
+2025-02-01 16:35:21,584 - INFO - Realtime accuracy: 0.25333333333333335 -- Total predictions: 75 -- Correct predictions: 19
+2025-02-01 16:35:22,490 - INFO - Buffer length: 60
+2025-02-01 16:35:22,589 - INFO - Realtime accuracy: 0.25333333333333335 -- Total predictions: 75 -- Correct predictions: 19
+2025-02-01 16:35:23,491 - INFO - Buffer length: 60
+2025-02-01 16:35:23,593 - INFO - Realtime accuracy: 0.25333333333333335 -- Total predictions: 75 -- Correct predictions: 19
+2025-02-01 16:35:24,506 - INFO - Buffer length: 60
+2025-02-01 16:35:24,602 - INFO - Realtime accuracy: 0.25333333333333335 -- Total predictions: 75 -- Correct predictions: 19
+2025-02-01 16:35:25,508 - INFO - Buffer length: 60
+2025-02-01 16:35:25,611 - INFO - Realtime accuracy: 0.25333333333333335 -- Total predictions: 75 -- Correct predictions: 19
+2025-02-01 16:35:26,519 - INFO - Buffer length: 60
+2025-02-01 16:35:26,615 - INFO - Realtime accuracy: 0.25333333333333335 -- Total predictions: 75 -- Correct predictions: 19
+2025-02-01 16:35:27,522 - INFO - Buffer length: 60
+2025-02-01 16:35:27,666 - INFO - Realtime accuracy: 0.25333333333333335 -- Total predictions: 75 -- Correct predictions: 19
+2025-02-01 16:35:28,536 - INFO - Buffer length: 60
+2025-02-01 16:35:28,632 - INFO - Realtime accuracy: 0.25333333333333335 -- Total predictions: 75 -- Correct predictions: 19
+2025-02-01 16:35:29,537 - INFO - Buffer length: 60
+2025-02-01 16:35:29,640 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:30,537 - INFO - Buffer length: 60
+2025-02-01 16:35:30,632 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:31,538 - INFO - Buffer length: 60
+2025-02-01 16:35:31,686 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:32,541 - INFO - Buffer length: 60
+2025-02-01 16:35:32,634 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:33,542 - INFO - Buffer length: 60
+2025-02-01 16:35:33,649 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:34,549 - INFO - Buffer length: 60
+2025-02-01 16:35:34,645 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:35,564 - INFO - Buffer length: 60
+2025-02-01 16:35:35,667 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:36,566 - INFO - Buffer length: 60
+2025-02-01 16:35:36,663 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:37,569 - INFO - Buffer length: 60
+2025-02-01 16:35:37,678 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:38,584 - INFO - Buffer length: 60
+2025-02-01 16:35:38,680 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:39,586 - INFO - Buffer length: 60
+2025-02-01 16:35:39,693 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:40,592 - INFO - Buffer length: 60
+2025-02-01 16:35:40,691 - INFO - Realtime accuracy: 0.25 -- Total predictions: 76 -- Correct predictions: 19
+2025-02-01 16:35:41,596 - INFO - Buffer length: 60
+2025-02-01 16:35:41,725 - INFO - Realtime accuracy: 0.2597402597402597 -- Total predictions: 77 -- Correct predictions: 20
+2025-02-01 16:35:42,603 - INFO - Buffer length: 60
+2025-02-01 16:35:42,699 - INFO - Realtime accuracy: 0.2597402597402597 -- Total predictions: 77 -- Correct predictions: 20
+2025-02-01 16:35:43,604 - INFO - Buffer length: 60
+2025-02-01 16:35:43,718 - INFO - Realtime accuracy: 0.2597402597402597 -- Total predictions: 77 -- Correct predictions: 20
+2025-02-01 16:35:44,605 - INFO - Buffer length: 60
+2025-02-01 16:35:44,704 - INFO - Realtime accuracy: 0.2597402597402597 -- Total predictions: 77 -- Correct predictions: 20
+2025-02-01 16:35:45,614 - INFO - Buffer length: 60
+2025-02-01 16:35:45,715 - INFO - Realtime accuracy: 0.2564102564102564 -- Total predictions: 78 -- Correct predictions: 20
+2025-02-01 16:35:46,624 - INFO - Buffer length: 60
+2025-02-01 16:35:46,725 - INFO - Realtime accuracy: 0.2564102564102564 -- Total predictions: 78 -- Correct predictions: 20
+2025-02-01 16:35:47,640 - INFO - Buffer length: 60
+2025-02-01 16:35:47,746 - INFO - Realtime accuracy: 0.25316455696202533 -- Total predictions: 79 -- Correct predictions: 20
+2025-02-01 16:35:48,645 - INFO - Buffer length: 60
+2025-02-01 16:35:48,741 - INFO - Realtime accuracy: 0.25316455696202533 -- Total predictions: 79 -- Correct predictions: 20
+2025-02-01 16:35:49,652 - INFO - Buffer length: 60
+2025-02-01 16:35:49,765 - INFO - Realtime accuracy: 0.25316455696202533 -- Total predictions: 79 -- Correct predictions: 20
+2025-02-01 16:35:50,663 - INFO - Buffer length: 60
+2025-02-01 16:35:50,755 - INFO - Realtime accuracy: 0.25316455696202533 -- Total predictions: 79 -- Correct predictions: 20
+2025-02-01 16:35:51,669 - INFO - Buffer length: 60
+2025-02-01 16:35:51,777 - INFO - Realtime accuracy: 0.2625 -- Total predictions: 80 -- Correct predictions: 21
+2025-02-01 16:35:52,681 - INFO - Buffer length: 60
+2025-02-01 16:35:52,778 - INFO - Realtime accuracy: 0.2625 -- Total predictions: 80 -- Correct predictions: 21
+2025-02-01 16:35:53,684 - INFO - Buffer length: 60
+2025-02-01 16:35:53,912 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 81 -- Correct predictions: 21
+2025-02-01 16:35:54,699 - INFO - Buffer length: 60
+2025-02-01 16:35:54,843 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 81 -- Correct predictions: 21
+2025-02-01 16:35:55,701 - INFO - Buffer length: 60
+2025-02-01 16:35:55,822 - INFO - Realtime accuracy: 0.25925925925925924 -- Total predictions: 81 -- Correct predictions: 21
+2025-02-01 16:35:56,703 - INFO - Buffer length: 60
+2025-02-01 16:35:56,824 - INFO - Realtime accuracy: 0.25609756097560976 -- Total predictions: 82 -- Correct predictions: 21
+2025-02-01 16:35:57,707 - INFO - Buffer length: 60
+2025-02-01 16:35:57,806 - INFO - Realtime accuracy: 0.25609756097560976 -- Total predictions: 82 -- Correct predictions: 21
+2025-02-01 16:35:58,710 - INFO - Buffer length: 60
+2025-02-01 16:35:58,824 - INFO - Realtime accuracy: 0.25609756097560976 -- Total predictions: 82 -- Correct predictions: 21
+2025-02-01 16:35:59,712 - INFO - Buffer length: 60
+2025-02-01 16:35:59,814 - INFO - Realtime accuracy: 0.25609756097560976 -- Total predictions: 82 -- Correct predictions: 21
+2025-02-01 16:36:00,714 - INFO - Buffer length: 60
+2025-02-01 16:36:00,839 - INFO - Realtime accuracy: 0.25 -- Total predictions: 84 -- Correct predictions: 21
+2025-02-01 16:36:01,715 - INFO - Buffer length: 60
+2025-02-01 16:36:01,824 - INFO - Realtime accuracy: 0.25 -- Total predictions: 84 -- Correct predictions: 21
+2025-02-01 16:36:02,729 - INFO - Buffer length: 60
+2025-02-01 16:36:02,851 - INFO - Realtime accuracy: 0.24705882352941178 -- Total predictions: 85 -- Correct predictions: 21
+2025-02-01 16:36:03,731 - INFO - Buffer length: 60
+2025-02-01 16:36:03,838 - INFO - Realtime accuracy: 0.24705882352941178 -- Total predictions: 85 -- Correct predictions: 21
+2025-02-01 16:36:04,734 - INFO - Buffer length: 60
+2025-02-01 16:36:04,837 - INFO - Realtime accuracy: 0.24705882352941178 -- Total predictions: 85 -- Correct predictions: 21
+2025-02-01 16:36:05,740 - INFO - Buffer length: 60
+2025-02-01 16:36:05,839 - INFO - Realtime accuracy: 0.2441860465116279 -- Total predictions: 86 -- Correct predictions: 21
+2025-02-01 16:36:06,742 - INFO - Buffer length: 60
+2025-02-01 16:36:06,862 - INFO - Realtime accuracy: 0.25 -- Total predictions: 88 -- Correct predictions: 22
+2025-02-01 16:36:07,745 - INFO - Buffer length: 60
+2025-02-01 16:36:07,840 - INFO - Realtime accuracy: 0.25 -- Total predictions: 88 -- Correct predictions: 22
+2025-02-01 16:36:08,759 - INFO - Buffer length: 60
+2025-02-01 16:36:08,877 - INFO - Realtime accuracy: 0.25 -- Total predictions: 88 -- Correct predictions: 22
+2025-02-01 16:36:09,769 - INFO - Buffer length: 60
+2025-02-01 16:36:09,962 - INFO - Realtime accuracy: 0.24719101123595505 -- Total predictions: 89 -- Correct predictions: 22
+2025-02-01 16:36:10,783 - INFO - Buffer length: 60
+2025-02-01 16:36:10,910 - INFO - Realtime accuracy: 0.24719101123595505 -- Total predictions: 89 -- Correct predictions: 22
+2025-02-01 16:36:11,787 - INFO - Buffer length: 60
+2025-02-01 16:36:11,917 - INFO - Realtime accuracy: 0.24444444444444444 -- Total predictions: 90 -- Correct predictions: 22
+2025-02-01 16:36:12,792 - INFO - Buffer length: 60
+2025-02-01 16:36:12,936 - INFO - Realtime accuracy: 0.24444444444444444 -- Total predictions: 90 -- Correct predictions: 22
+2025-02-01 16:36:13,804 - INFO - Buffer length: 60
+2025-02-01 16:36:13,941 - INFO - Realtime accuracy: 0.24444444444444444 -- Total predictions: 90 -- Correct predictions: 22
+2025-02-01 16:36:14,808 - INFO - Buffer length: 60
+2025-02-01 16:36:14,917 - INFO - Realtime accuracy: 0.24444444444444444 -- Total predictions: 90 -- Correct predictions: 22
+2025-02-01 16:36:15,811 - INFO - Buffer length: 60
+2025-02-01 16:36:15,932 - INFO - Realtime accuracy: 0.24444444444444444 -- Total predictions: 90 -- Correct predictions: 22
+2025-02-01 16:36:16,814 - INFO - Buffer length: 60
+2025-02-01 16:36:16,921 - INFO - Realtime accuracy: 0.24444444444444444 -- Total predictions: 90 -- Correct predictions: 22
+2025-02-01 16:36:17,817 - INFO - Buffer length: 60
+2025-02-01 16:36:17,921 - INFO - Realtime accuracy: 0.24444444444444444 -- Total predictions: 90 -- Correct predictions: 22
+2025-02-01 16:36:18,819 - INFO - Buffer length: 60
+2025-02-01 16:36:18,919 - INFO - Realtime accuracy: 0.24444444444444444 -- Total predictions: 90 -- Correct predictions: 22
+2025-02-01 16:36:19,834 - INFO - Buffer length: 60
+2025-02-01 16:36:19,953 - INFO - Realtime accuracy: 0.25274725274725274 -- Total predictions: 91 -- Correct predictions: 23
+2025-02-01 16:36:20,835 - INFO - Buffer length: 60
+2025-02-01 16:36:20,935 - INFO - Realtime accuracy: 0.25274725274725274 -- Total predictions: 91 -- Correct predictions: 23
+2025-02-01 16:36:21,850 - INFO - Buffer length: 60
+2025-02-01 16:36:21,984 - INFO - Realtime accuracy: 0.25274725274725274 -- Total predictions: 91 -- Correct predictions: 23
+2025-02-01 16:36:22,855 - INFO - Buffer length: 60
+2025-02-01 16:36:22,958 - INFO - Realtime accuracy: 0.25274725274725274 -- Total predictions: 91 -- Correct predictions: 23
+2025-02-01 16:36:23,861 - INFO - Buffer length: 60
+2025-02-01 16:36:23,977 - INFO - Realtime accuracy: 0.25274725274725274 -- Total predictions: 91 -- Correct predictions: 23
+2025-02-01 16:36:24,864 - INFO - Buffer length: 60
+2025-02-01 16:36:24,959 - INFO - Realtime accuracy: 0.25274725274725274 -- Total predictions: 91 -- Correct predictions: 23
+2025-02-01 16:36:25,868 - INFO - Buffer length: 60
+2025-02-01 16:36:26,029 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:26,881 - INFO - Buffer length: 60
+2025-02-01 16:36:26,985 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:27,883 - INFO - Buffer length: 60
+2025-02-01 16:36:28,044 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:28,898 - INFO - Buffer length: 60
+2025-02-01 16:36:28,997 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:29,902 - INFO - Buffer length: 60
+2025-02-01 16:36:30,025 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:30,904 - INFO - Buffer length: 60
+2025-02-01 16:36:31,007 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:31,910 - INFO - Buffer length: 60
+2025-02-01 16:36:32,030 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:32,912 - INFO - Buffer length: 60
+2025-02-01 16:36:33,010 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:33,915 - INFO - Buffer length: 60
+2025-02-01 16:36:34,019 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:34,918 - INFO - Buffer length: 60
+2025-02-01 16:36:35,079 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:35,931 - INFO - Buffer length: 60
+2025-02-01 16:36:36,031 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:36,946 - INFO - Buffer length: 60
+2025-02-01 16:36:37,075 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:37,949 - INFO - Buffer length: 60
+2025-02-01 16:36:38,049 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:38,952 - INFO - Buffer length: 60
+2025-02-01 16:36:39,074 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:39,956 - INFO - Buffer length: 60
+2025-02-01 16:36:40,057 - INFO - Realtime accuracy: 0.25806451612903225 -- Total predictions: 93 -- Correct predictions: 24
+2025-02-01 16:36:40,961 - INFO - Buffer length: 60
+2025-02-01 16:36:41,077 - INFO - Realtime accuracy: 0.2553191489361702 -- Total predictions: 94 -- Correct predictions: 24
+2025-02-01 16:36:41,963 - INFO - Buffer length: 60
+2025-02-01 16:36:42,062 - INFO - Realtime accuracy: 0.2553191489361702 -- Total predictions: 94 -- Correct predictions: 24
+2025-02-01 16:36:42,978 - INFO - Buffer length: 60
+2025-02-01 16:36:43,093 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:43,980 - INFO - Buffer length: 60
+2025-02-01 16:36:44,082 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:44,985 - INFO - Buffer length: 60
+2025-02-01 16:36:45,101 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:45,987 - INFO - Buffer length: 60
+2025-02-01 16:36:46,090 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:46,992 - INFO - Buffer length: 60
+2025-02-01 16:36:47,121 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:48,007 - INFO - Buffer length: 60
+2025-02-01 16:36:48,106 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:49,011 - INFO - Buffer length: 60
+2025-02-01 16:36:49,125 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:50,026 - INFO - Buffer length: 60
+2025-02-01 16:36:50,131 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:51,030 - INFO - Buffer length: 60
+2025-02-01 16:36:51,165 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:52,032 - INFO - Buffer length: 60
+2025-02-01 16:36:52,139 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:53,035 - INFO - Buffer length: 60
+2025-02-01 16:36:53,157 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:54,039 - INFO - Buffer length: 60
+2025-02-01 16:36:54,130 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:55,040 - INFO - Buffer length: 60
+2025-02-01 16:36:55,151 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:56,043 - INFO - Buffer length: 60
+2025-02-01 16:36:56,146 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:57,047 - INFO - Buffer length: 60
+2025-02-01 16:36:57,179 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:58,049 - INFO - Buffer length: 60
+2025-02-01 16:36:58,150 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:36:59,064 - INFO - Buffer length: 60
+2025-02-01 16:36:59,190 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:37:00,068 - INFO - Buffer length: 60
+2025-02-01 16:37:00,179 - INFO - Realtime accuracy: 0.25263157894736843 -- Total predictions: 95 -- Correct predictions: 24
+2025-02-01 16:37:01,071 - INFO - Buffer length: 60
+2025-02-01 16:37:01,188 - INFO - Realtime accuracy: 0.25 -- Total predictions: 96 -- Correct predictions: 24
+2025-02-01 16:37:02,076 - INFO - Buffer length: 60
+2025-02-01 16:37:02,240 - INFO - Realtime accuracy: 0.24742268041237114 -- Total predictions: 97 -- Correct predictions: 24
+2025-02-01 16:37:03,080 - INFO - Buffer length: 60
+2025-02-01 16:37:03,183 - INFO - Realtime accuracy: 0.24742268041237114 -- Total predictions: 97 -- Correct predictions: 24
+2025-02-01 16:37:04,081 - INFO - Buffer length: 60
+2025-02-01 16:37:04,244 - INFO - Realtime accuracy: 0.24742268041237114 -- Total predictions: 97 -- Correct predictions: 24
+2025-02-01 16:37:05,082 - INFO - Buffer length: 60
+2025-02-01 16:37:05,197 - INFO - Realtime accuracy: 0.24742268041237114 -- Total predictions: 97 -- Correct predictions: 24
+2025-02-01 16:37:06,095 - INFO - Buffer length: 60
+2025-02-01 16:37:06,214 - INFO - Realtime accuracy: 0.24489795918367346 -- Total predictions: 98 -- Correct predictions: 24
+2025-02-01 16:37:07,110 - INFO - Buffer length: 60
+2025-02-01 16:37:07,255 - INFO - Realtime accuracy: 0.24489795918367346 -- Total predictions: 98 -- Correct predictions: 24
+2025-02-01 16:37:08,125 - INFO - Buffer length: 60
+2025-02-01 16:37:08,226 - INFO - Realtime accuracy: 0.24489795918367346 -- Total predictions: 98 -- Correct predictions: 24
+2025-02-01 16:37:09,127 - INFO - Buffer length: 60
+2025-02-01 16:37:09,304 - INFO - Realtime accuracy: 0.24489795918367346 -- Total predictions: 98 -- Correct predictions: 24
+2025-02-01 16:37:10,142 - INFO - Buffer length: 60
+2025-02-01 16:37:10,256 - INFO - Realtime accuracy: 0.24489795918367346 -- Total predictions: 98 -- Correct predictions: 24
+2025-02-01 16:37:11,154 - INFO - Buffer length: 60
+2025-02-01 16:37:11,315 - INFO - Realtime accuracy: 0.24242424242424243 -- Total predictions: 99 -- Correct predictions: 24
+2025-02-01 16:37:12,157 - INFO - Buffer length: 60
+2025-02-01 16:37:12,259 - INFO - Realtime accuracy: 0.25 -- Total predictions: 100 -- Correct predictions: 25
+2025-02-01 16:37:13,161 - INFO - Buffer length: 60
+2025-02-01 16:37:13,295 - INFO - Realtime accuracy: 0.25 -- Total predictions: 100 -- Correct predictions: 25
+2025-02-01 16:37:14,163 - INFO - Buffer length: 60
+2025-02-01 16:37:14,347 - INFO - Realtime accuracy: 0.25 -- Total predictions: 100 -- Correct predictions: 25
+2025-02-01 16:37:15,164 - INFO - Buffer length: 60
+2025-02-01 16:37:15,309 - INFO - Realtime accuracy: 0.25 -- Total predictions: 100 -- Correct predictions: 25
+2025-02-01 16:37:16,168 - INFO - Buffer length: 60
+2025-02-01 16:37:16,329 - INFO - Realtime accuracy: 0.25 -- Total predictions: 100 -- Correct predictions: 25
+2025-02-01 16:37:17,179 - INFO - Buffer length: 60
+2025-02-01 16:37:17,342 - INFO - Realtime accuracy: 0.24509803921568626 -- Total predictions: 102 -- Correct predictions: 25
+2025-02-01 16:37:18,183 - INFO - Buffer length: 60
+2025-02-01 16:37:18,309 - INFO - Realtime accuracy: 0.24509803921568626 -- Total predictions: 102 -- Correct predictions: 25
+2025-02-01 16:37:19,197 - INFO - Buffer length: 60
+2025-02-01 16:37:19,295 - INFO - Realtime accuracy: 0.24509803921568626 -- Total predictions: 102 -- Correct predictions: 25
+2025-02-01 16:37:20,201 - INFO - Buffer length: 60
+2025-02-01 16:37:20,320 - INFO - Realtime accuracy: 0.24509803921568626 -- Total predictions: 102 -- Correct predictions: 25
+2025-02-01 16:37:21,201 - INFO - Buffer length: 60
+2025-02-01 16:37:21,306 - INFO - Realtime accuracy: 0.24509803921568626 -- Total predictions: 102 -- Correct predictions: 25
+2025-02-01 16:37:22,217 - INFO - Buffer length: 60
+2025-02-01 16:37:22,353 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:23,219 - INFO - Buffer length: 60
+2025-02-01 16:37:23,332 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:24,222 - INFO - Buffer length: 60
+2025-02-01 16:37:24,385 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:25,228 - INFO - Buffer length: 60
+2025-02-01 16:37:25,337 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:26,230 - INFO - Buffer length: 60
+2025-02-01 16:37:26,396 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:27,245 - INFO - Buffer length: 60
+2025-02-01 16:37:27,407 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:28,247 - INFO - Buffer length: 60
+2025-02-01 16:37:28,424 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:29,262 - INFO - Buffer length: 60
+2025-02-01 16:37:29,376 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:30,276 - INFO - Buffer length: 60
+2025-02-01 16:37:30,437 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:31,291 - INFO - Buffer length: 60
+2025-02-01 16:37:31,401 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:32,293 - INFO - Buffer length: 60
+2025-02-01 16:37:32,474 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:33,296 - INFO - Buffer length: 60
+2025-02-01 16:37:33,460 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:34,300 - INFO - Buffer length: 60
+2025-02-01 16:37:34,402 - INFO - Realtime accuracy: 0.24271844660194175 -- Total predictions: 103 -- Correct predictions: 25
+2025-02-01 16:37:35,304 - INFO - Buffer length: 60
+2025-02-01 16:37:35,436 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:36,305 - INFO - Buffer length: 60
+2025-02-01 16:37:36,403 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:37,320 - INFO - Buffer length: 60
+2025-02-01 16:37:37,478 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:38,335 - INFO - Buffer length: 60
+2025-02-01 16:37:38,433 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:39,350 - INFO - Buffer length: 60
+2025-02-01 16:37:39,479 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:40,362 - INFO - Buffer length: 60
+2025-02-01 16:37:40,470 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:41,365 - INFO - Buffer length: 60
+2025-02-01 16:37:41,499 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:42,370 - INFO - Buffer length: 60
+2025-02-01 16:37:42,469 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:43,373 - INFO - Buffer length: 60
+2025-02-01 16:37:43,498 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:44,387 - INFO - Buffer length: 60
+2025-02-01 16:37:44,493 - INFO - Realtime accuracy: 0.2403846153846154 -- Total predictions: 104 -- Correct predictions: 25
+2025-02-01 16:37:45,391 - INFO - Buffer length: 60
+2025-02-01 16:37:45,524 - INFO - Realtime accuracy: 0.24761904761904763 -- Total predictions: 105 -- Correct predictions: 26
+2025-02-01 16:37:46,394 - INFO - Buffer length: 60
+2025-02-01 16:37:46,519 - INFO - Realtime accuracy: 0.24761904761904763 -- Total predictions: 105 -- Correct predictions: 26
+2025-02-01 16:37:47,408 - INFO - Buffer length: 60
+2025-02-01 16:37:47,569 - INFO - Realtime accuracy: 0.24761904761904763 -- Total predictions: 105 -- Correct predictions: 26
+2025-02-01 16:37:48,423 - INFO - Buffer length: 60
+2025-02-01 16:37:48,522 - INFO - Realtime accuracy: 0.24761904761904763 -- Total predictions: 105 -- Correct predictions: 26
+2025-02-01 16:37:49,423 - INFO - Buffer length: 60
+2025-02-01 16:37:49,585 - INFO - Realtime accuracy: 0.24761904761904763 -- Total predictions: 105 -- Correct predictions: 26
+2025-02-01 16:37:50,426 - INFO - Buffer length: 60
+2025-02-01 16:37:50,533 - INFO - Realtime accuracy: 0.24761904761904763 -- Total predictions: 105 -- Correct predictions: 26
+2025-02-01 16:37:51,428 - INFO - Buffer length: 60
+2025-02-01 16:37:51,560 - INFO - Realtime accuracy: 0.24761904761904763 -- Total predictions: 105 -- Correct predictions: 26
+2025-02-01 16:37:52,431 - INFO - Buffer length: 60
+2025-02-01 16:37:52,531 - INFO - Realtime accuracy: 0.24528301886792453 -- Total predictions: 106 -- Correct predictions: 26
+2025-02-01 16:37:53,432 - INFO - Buffer length: 60
+2025-02-01 16:37:53,594 - INFO - Realtime accuracy: 0.24528301886792453 -- Total predictions: 106 -- Correct predictions: 26
+2025-02-01 16:37:54,437 - INFO - Buffer length: 60
+2025-02-01 16:37:54,541 - INFO - Realtime accuracy: 0.24528301886792453 -- Total predictions: 106 -- Correct predictions: 26
+2025-02-01 16:37:55,440 - INFO - Buffer length: 60
+2025-02-01 16:37:55,601 - INFO - Realtime accuracy: 0.24299065420560748 -- Total predictions: 107 -- Correct predictions: 26
+2025-02-01 16:37:56,443 - INFO - Buffer length: 60
+2025-02-01 16:37:56,545 - INFO - Realtime accuracy: 0.24299065420560748 -- Total predictions: 107 -- Correct predictions: 26
+2025-02-01 16:37:57,446 - INFO - Buffer length: 60
+2025-02-01 16:37:57,561 - INFO - Realtime accuracy: 0.24299065420560748 -- Total predictions: 107 -- Correct predictions: 26
+2025-02-01 16:37:58,450 - INFO - Buffer length: 60
+2025-02-01 16:37:58,554 - INFO - Realtime accuracy: 0.24299065420560748 -- Total predictions: 107 -- Correct predictions: 26
+2025-02-01 16:37:59,463 - INFO - Buffer length: 60
+2025-02-01 16:37:59,579 - INFO - Realtime accuracy: 0.24299065420560748 -- Total predictions: 107 -- Correct predictions: 26
+2025-02-01 16:38:00,477 - INFO - Buffer length: 60
+2025-02-01 16:38:00,612 - INFO - Realtime accuracy: 0.24074074074074073 -- Total predictions: 108 -- Correct predictions: 26
