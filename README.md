@@ -139,6 +139,7 @@ The MongoDB database `byner_analyzer` contains several collections:
    ```
 
 3. **Run Inference:**
+   Important! While running the generator.py, open a new terminal and run the inference.py. (Do not stop the generator.py)
    Start the inference client to process live data, (wait 60 seconds to load the first 60 prices into the buffer) generate predictions, and update the MongoDB collections with predictions and metrics.
    ```bash
    python inference.py
